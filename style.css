@@ -1,0 +1,102 @@
+.bi-shop {
+    color: green;
+    margin-top: -10px;
+}
+
+.navbar {
+    background-color: rgb(255, 255, 255);
+}
+
+.nav-item {
+    font-size: 30px;
+    color: black;
+}
+
+
+.navbar-brand {
+    font-size: 20px;
+}
+
+.total {
+    display: flex;
+    position: relative;
+}
+
+.pett {
+    font-size: 35px;
+    color: black;
+    padding-top: 11px;
+}
+
+.bg1 {
+    background-image: url(dog.jpg);
+    margin-top: -65px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+}
+
+.pet {
+    padding-left: 20px;
+    padding-top: 206px;
+    color: white;
+    position: absolute;
+}
+
+.one {
+    font-size: 86px;
+
+}
+
+.two {
+    font-size: 30px;
+}
+
+.four {
+    margin-bottom: 10px;
+}
+
+.readtn {
+    margin-top: 20px;
+    margin-left: 150px;
+}
+
+.pet button {
+    font-size: 40px;
+}
+
+.three {
+    margin-left: -69px;
+}
+
+.first_page {
+    position: relative;
+}
+
+.second_page {
+    position: relative;
+}
+
+.coloum:hover {
+    color: rgb(255, 255, 255);
+    background-color: green;
+}
+
+.eight {
+    background-color: rgb(121, 118, 118);
+}
+
+.six {
+    height: 100%;
+    background-color: gainsboro;
+}
+
+.ten {
+    margin-left: 30px;
+    font-size: 17px;
+    margin-bottom: 0px;
+}
+
+.service01 {
+    color: green;
+}
